@@ -1,2 +1,4 @@
-kilometer=float(input("Enter the number of km : "))
-print("Coverted into miles",round(kilometer*0.621371,4))
+print("Calculating average of 4 and 9")
+number1 = float(input("Enter First Number : "))
+number2 = float(input("Enter First Number : "))
+print("Average is : ",(number1+number2)/2)
